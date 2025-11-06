@@ -1,0 +1,15 @@
+（①到⑥全部是在Windows上操作）
+
+①先将HWCloud中的全部Contacts下载为vcf文件；
+
+②将vcf文件导入网页版QQ邮箱的Contact中，这样QQ邮箱中的contact就可以看到全部联系人；
+
+③再将全部联系人从网页版QQ邮箱的Contact中导出为vCard文件；
+
+④将导出后的vcf文件导入iCloud的通讯录中，这样全部联系人就到了iCloud的通讯录中；
+
+⑤再将全部联系人从iCloud的通讯录中导出为vcf文件（无法直接将全部联系人从iCloud下载到iPhone16上）；
+
+⑥将导出的vcf文件放在iCloud的Drive中，即可在iPhone16的Files/Browse/iCloud Drive中看到。
+
+⑦最后在iPhone16上，将该vcf文件长按，选择Share，再选择Contacts，即可将全部联系人导入通讯录Contacts中。
